@@ -1,0 +1,10 @@
+pages\BasePage.class
+utils\GerarEvidenciasUtils.class
+exceptions\ElementException.class
+pages\Hooks.class
+pages\LoginPage.class
+scenarios\TestRunner.class
+config\PropertiesFile.class
+uimaps\LoginMap.class
+core\Driver.class
+core\Element.class
